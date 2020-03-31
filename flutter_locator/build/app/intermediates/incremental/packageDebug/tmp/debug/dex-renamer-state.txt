@@ -1,4 +1,0 @@
-#Tue Mar 31 22:22:05 IST 2020
-base.0=D\:\\Flutter-geolocation\\Flutter-location\\flutter_locator\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
