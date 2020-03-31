@@ -1,4 +1,4 @@
-# first_app
+# geo_locator
 
 A new Flutter project.
 
